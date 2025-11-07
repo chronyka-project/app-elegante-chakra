@@ -1,0 +1,6 @@
+{
+  "itens": [
+    { "id": 1, "titulo": "Componente Header", "descricao": "Criar um menu de navegação elegante.", "concluido": false },
+    { "id": 2, "titulo": "Conexão de Dados", "descricao": "Integrar a API do JSON Server com o React.", "concluido": true }
+  ]
+}
